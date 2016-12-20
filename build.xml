@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<project name="Erebot_Module_Werewolves" description="" default="all">
+    <property name="qa.coverage.force" value="false"/>
+    <property name="tagfiles" value="Erebot"/>
+
+    <fileset dir="." id="phar.files">
+        <include name="data/**"/>
+    </fileset>
+
+    <fileset dir="src/" id="sources">
+        <include name="**/*.php"/>
+    </fileset>
+
+    <fileset dir="tests/" id="tests">
+        <include name="**/*.php"/>
+    </fileset>
+
+    <import file="vendor/erebot/buildenv/build.xml"/>
+</project>
