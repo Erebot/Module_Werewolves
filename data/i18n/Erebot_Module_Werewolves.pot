@@ -1,0 +1,47 @@
+# SOME DESCRIPTIVE TITLE.
+# This file is put in the public domain.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Erebot_Module_Werewolves 1.0.x-dev\n"
+"Report-Msgid-Bugs-To: i18n@erebot.net\n"
+"POT-Creation-Date: 2016-12-20 16:39+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+#
+# File: src/Werewolves.php, line: 220
+msgid "<b><var name=\"nick\"/></b> joins this <var name=\"logo\"/> game."
+msgstr ""
+#
+# File: src/Werewolves.php, line: 207
+msgid ""
+"<var name=\"logo\"/> You're already in the game <b><var name=\"nick\"/></b>!"
+msgstr ""
+#
+# File: src/Werewolves.php, line: 96
+msgid ""
+"A game of <var name=\"logo\"/> is already running, managed by <var name="
+"\"creator\"/>. Say \"<b><var name=\"trigger\"/></b>\" to join it."
+msgstr ""
+#
+# File: src/Werewolves.php, line: 178
+msgid ""
+"A new game of <var name=\"logo\"/> has been created in <var name=\"chan\"/>. "
+"You have <var name=\"delay\"> seconds left to register for the game by saying "
+"\"<b><var name=\"trigger\"/></b>\"."
+msgstr ""
+#
+# File: src/Werewolves.php, line: 50
+msgid "Could not register Werewolves creation trigger"
+msgstr ""
+#
+# File: src/Werewolves.php, line: 118
+msgid "Unable to register triggers for <var name=\"logo\"/>"
+msgstr ""
